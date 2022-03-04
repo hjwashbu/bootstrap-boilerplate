@@ -11,4 +11,4 @@ Includes
 
 The index.html file also contains the Bootstrap CSS linking, as well as the JS linking at the bottom of the body section. There is also a link for the style sheet to the html file.
 
-* Created 220301*
+*Created 220301*
